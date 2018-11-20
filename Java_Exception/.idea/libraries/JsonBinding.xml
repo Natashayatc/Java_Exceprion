@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JsonBinding" type="JsonBinding">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk-11.0.1/jackson-core-2.9.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-11.0.1/jackson-databind-2.9.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-11.0.1/jackson-annotations-2.9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-11.0.1/jackson-core-2.9.7.jar!/" />
+    </SOURCES>
+  </library>
+</component>
